@@ -1,5 +1,5 @@
 # alabites
-Abstract
+
 This study focuses on developing an application that lets users order their foods online for FEU Alabang food concessionaires, namely R2K, CIA, and Graciously respectively. This application will be used as a food ordering app but users will still go to the chosen 
 food stall to collect their food. To build the app, Java, HTML, CSS, PHP, JavaScript and Wireframe will be used here and MySQL as our database to store the food stall owner’s meals and employees. Waiting in line for too long is a pain-stalking task especially when
 someone is hungry and waiting is the last thing they want to deal with. Queuing can lead to several negatives like the missed opportunities for revenue because of the loss of some customers when looking at an intimidatingly long line that begs the question why are 
