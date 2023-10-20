@@ -14,7 +14,7 @@ Adding the food delivery system of the application will also be beneficial not o
 Instructions:
 Fork this repository, place the project on your main file, extract "extract-to-main.zip" to your main folder use XAMPP and MySQL
 
-Publised under the MIT License
+Publised under the MIT License<br>
 Copyright <2023> <Mejia,Marcial,Florentino,Carolino,Calizo>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
