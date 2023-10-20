@@ -12,7 +12,7 @@ The study will be beneficial to future researchers since the application is open
 Adding the food delivery system of the application will also be beneficial not only for the future researchers but also for the food concessionaires so that they can expand their business across Alabang. Other users who own a food business can use the application in order to provide the customers with a wider range of food stalls to choose from. With adding and improving to the application with a food delivery system and the feature to add new stores can be implemented by future researchers, this allows to expand the food stall owners’ customer base and attract new customers in Alabang. 
 
 Instructions:
-Fork this repository, place the project on your main file, extract "extract-to-main.zip" to your main folder use XAMPP and MySQL
+Fork this repository, place all the project files on your main project folder, extract "extract-to-main.zip" to your main folder use XAMPP and MySQL
 
 Publised under the MIT License<br>
 Copyright <2023> <Mejia,Marcial,Florentino,Carolino,Calizo><br>
